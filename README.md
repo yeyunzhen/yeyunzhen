@@ -2,24 +2,24 @@
 - [English](#english)
 - [中文](#中文)
 
+### About me 👋
 ---
 
 ### English
-Hi, I'm a developer...
-
----
-
-### 中文
-你好，我是一名开发者...
-
-
-### About me 👋
 - Mainly C++ / C# Writer
 - OR Researcher/
 - Digtal Audio WorkStation Player
 - Pedal Collector
-- MyBlog：[Click here](https://yeyunzhen.github.io)
+- My WebSite：[Click and Skip](https://yeyunzhen.github.io)
+---
 
+### 中文
+- 日常写 C++ / C#
+- 运筹学的研究爱好者
+- 数字音频工作站的使用者
+- 单块收集玩家
+- 个人网站：[点击跳转](https://yeyunzhen.github.io)
+---
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyunzhen&layout=compact&hide_border=false&langs_count=10)
 
