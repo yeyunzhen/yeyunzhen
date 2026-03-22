@@ -7,7 +7,7 @@
 
 ### English
 - Mainly C++ / C# Writer
-- OR Researcher/
+- OR Researcher/Amateur
 - Digtal Audio WorkStation Player
 - Pedal Collector
 - My WebSite：[Click and Skip](https://yeyunzhen.github.io)
