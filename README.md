@@ -1,11 +1,9 @@
 ### 🌐 Language / 语言
-- [English](#english)
-- [中文](#中文)
+- [English](#About me)
+- [中文](#关于我)
 
-### About me 👋
 ---
-
-### English
+### About me
 - Mainly C++ / C# Writer
 - OR Researcher / Amateur
 - Digtal Video / Audio WorkStation Player
@@ -13,7 +11,7 @@
 - My WebSite：[Click and Skip](https://yeyunzhen.github.io)
 ---
 
-### 中文
+### 关于我
 - 日常写 C++ / C#
 - 运筹学的研究爱好者
 - 数字音视频工作站牛马
