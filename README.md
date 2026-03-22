@@ -7,8 +7,8 @@
 
 ### English
 - Mainly C++ / C# Writer
-- OR Researcher/Amateur
-- Digtal Video/Audio WorkStation Player
+- OR Researcher / Amateur
+- Digtal Video / Audio WorkStation Player
 - Pedal Collector
 - My WebSite：[Click and Skip](https://yeyunzhen.github.io)
 ---
