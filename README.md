@@ -1,5 +1,5 @@
 ### 🌐 Language / 语言
-- [English](#About me)
+- [English](#About-me)
 - [中文](#关于我)
 
 ---
