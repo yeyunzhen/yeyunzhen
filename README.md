@@ -8,7 +8,7 @@
 ### English
 - Mainly C++ / C# Writer
 - OR Researcher/Amateur
-- Digtal Audio WorkStation Player
+- Digtal Video/Audio WorkStation Player
 - Pedal Collector
 - My WebSite：[Click and Skip](https://yeyunzhen.github.io)
 ---
@@ -16,8 +16,8 @@
 ### 中文
 - 日常写 C++ / C#
 - 运筹学的研究爱好者
-- 数字音频工作站的使用者
-- 单块收集玩家
+- 数字音视频工作站牛马
+- 收集各种各种的单块
 - 个人网站：[点击跳转](https://yeyunzhen.github.io)
 ---
 
