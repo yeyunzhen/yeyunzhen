@@ -1,9 +1,25 @@
+### 🌐 Language / 语言
+- [English](#english)
+- [中文](#中文)
+
+---
+
+### English
+Hi, I'm a developer...
+
+---
+
+### 中文
+你好，我是一名开发者...
+
+
 ### About me 👋
 - Mainly C++ / C# Writer
-- OR Researcher
+- OR Researcher/
 - Digtal Audio WorkStation Player
 - Pedal Collector
 - MyBlog：[Click here](https://yeyunzhen.github.io)
+
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyunzhen&layout=compact&hide_border=false&langs_count=10)
 
